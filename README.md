@@ -8,7 +8,7 @@
 </head>
 <body>
     <main>
-        <a href="https://devaksai.github.io/ethnus-mern/">hostlink</a>
+        <a href="https://devaksai.github.io/ethnus-mern/">Hosted Link</a>
     </main>
 </body>
 </html>
