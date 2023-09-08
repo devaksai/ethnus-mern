@@ -1,1 +1,14 @@
 # ethnus-mern
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hostlink</title>
+</head>
+<body>
+    <main>
+        <a href="https://devaksai.github.io/ethnus-mern/">hostlink</a>
+    </main>
+</body>
+</html>
